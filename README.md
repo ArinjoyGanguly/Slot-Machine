@@ -7,7 +7,7 @@
 <!-- Optional: Add a GIF or a screenshot of your game here for immediate visual appeal! -->
 <!-- For example: -->
 <p align="center">
-  <img src="[https://placehold.co/600x300/a0e0ff/000000?text=Slot+Machine+Game+Screenshot](https://img.freepik.com/free-photo/gambling-slot-machine-casino_53876-123085.jpg?semt=ais_hybrid&w=740&q=80)" alt="Python Slot Machine game in action.">
+  <img src="https://img.freepik.com/free-photo/gambling-slot-machine-casino_53876-123085.jpg?semt=ais_hybrid&w=740&q=80" alt="Python Slot Machine game in action.">
   <br>
   <em>Hit the jackpot by matching three symbols!</em>
 </p>
